@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StableVault - The Dollar Bank Nigerian Businesses Deserve",
+  title: "Relyr - The Dollar Bank Nigerian Businesses Deserve",
   description: "Earn 5% interest on USD savings. Pay international suppliers at 1% fee. Manage everything from your phone. No bank visits. No paperwork. No BS.",
 };
 

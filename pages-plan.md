@@ -1,4 +1,4 @@
-# StableVault - Pages Plan
+# Relyr - Pages Plan
 
 ## Completed
 - ✅ Landing Page (Home)
@@ -8,14 +8,14 @@
 ## Priority Pages to Build
 
 ### 1. **About Us Page** (`/about`)
-**Purpose**: Build trust and tell the StableVault story
+**Purpose**: Build trust and tell the Relyr story
 
 **Sections**:
 - Hero Section
   - "Building the future of African cross-border payments"
   - Mission statement
 - Our Story
-  - Why we started StableVault
+  - Why we started Relyr
   - The problem we witnessed firsthand
   - Our vision for African financial freedom
 - Our Team
@@ -71,8 +71,8 @@
   - Transaction fees breakdown
   - Exchange rate transparency
 - Comparison Table
-  - StableVault vs Traditional Banks
-  - StableVault vs Other Services (Western Union, PayPal, etc.)
+  - Relyr vs Traditional Banks
+  - Relyr vs Other Services (Western Union, PayPal, etc.)
 - Fee Calculator
   - Interactive tool: enter amount, see exact fees
 - Countries & Corridors
@@ -82,7 +82,7 @@
 ---
 
 ### 4. **Features/Product Page** (`/features`)
-**Purpose**: Deep dive into what makes StableVault special
+**Purpose**: Deep dive into what makes Relyr special
 
 **Sections**:
 - Hero Section
@@ -118,7 +118,7 @@
 
 **Sections**:
 - Hero Section
-  - "Power your global business with StableVault"
+  - "Power your global business with Relyr"
   - Enterprise-focused value proposition
 - Business Use Cases
   - Pay remote teams across Africa
